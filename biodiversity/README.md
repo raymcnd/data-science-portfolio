@@ -1,4 +1,4 @@
-# Biodiversity
+# Biodiversity EDA
 
 Note: this project is part of my study of data science on [Codecademy.com](https://www.codecademy.com) and is based on their guideline and other given resources. The data is provided by them and is fictional.
 
